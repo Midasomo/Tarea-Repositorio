@@ -5,6 +5,8 @@
  */
 package tarearepositorio;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Michael
@@ -15,6 +17,8 @@ public class TareaRepositorio {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
+        JOptionPane.showMessageDialog(null, "    XD  ES TU FIN  XD");
         // TODO code application logic here
     }
     
