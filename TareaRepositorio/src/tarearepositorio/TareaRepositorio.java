@@ -19,6 +19,7 @@ public class TareaRepositorio {
     public static void main(String[] args) {
         
         JOptionPane.showMessageDialog(null, "    XD  ES TU FIN  XD");
+        JOptionPane.showMessageDialog(null, "    XD  ES BROMA  XD");
         // TODO code application logic here
     }
     
